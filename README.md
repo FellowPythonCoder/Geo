@@ -1,14 +1,8 @@
 Easy light weight browser
 # 🌎 GEO
 
+GEO
 
-       .-""""-.
-     .'  .--.  '.
-    /   /    \   \
-   |   |  🌎  |   |       GEO
-    \   \    /   /
-     '.  '--'  .'
-       '-.__.-'
 
   ┌──────────────────────────────────────┐
   │  GEO — Lightweight Desktop Browser   │
@@ -22,7 +16,7 @@ Easy light weight browser
   RAM:      ~500 MB free recommended
 ```
 
-> **CONTACT:** If you encounter any problems, please contact **[YOUR-GMAIL-HERE]**.
+> **CONTACT:** If you encounter any problems, please contact **[azadpelia13@gmail.com]**.
 > **Geo is still in development, so bugs and unfinished features are expected.**
 
 ---
@@ -437,7 +431,7 @@ If you find something broken, please report it.
 
 If you encounter a problem, please contact:
 
-**[YOUR-GMAIL-HERE]**
+**[azadpelia13@gmail.com]**
 
 When reporting a problem, please include:
 
@@ -462,7 +456,6 @@ Geo is still being built, and every bug report, idea, and bit of feedback helps 
 
 **Thanks for using Geo.**
 
-```text
        🌎
       GEO
 

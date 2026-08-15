@@ -13,7 +13,7 @@
 </p>
 
 ---
-
+Contact : azadpelia13@gmail.com (if you run into errors or want to give feedback)
 ## What is Geo?
 
 Geo is a lightweight desktop web browser. It has tabs, a settings

@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/1.png" alt="Screenshot of the Geo browser" width="700" />
+  <img src="1.png" alt="Screenshot of the Geo browser" width="700" />
 </p>
 
 ---

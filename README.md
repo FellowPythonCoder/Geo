@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Logo.png" alt="Geo logo" width="220" />
+  <img src="Logo.png" alt="Geo logo" width="220" />
 </p>
 
 <h1 align="center">Geo</h1>

@@ -1,0 +1,11 @@
+Ai used for :	   
+
+Rust	          app/src-tauri/src/main.rs — the native desktop shell; creates each tab as a real OS-level webview
+TOML	          app/src-tauri/Cargo.toml — Rust's package/dependency file
+JSON	
+
+I did :
+
+HTML    	app/src/index.html — the app's layout (sidebar, tabs, toolbar, settings panel)
+CSS	      app/src/css/glass.css and app.css — the frosted-glass look, colors, layout
+JavaScript	    app/src/js/app.js and settings.js — tabs, navigation, the ⌘K command menu, the Google→Geo swap logic
